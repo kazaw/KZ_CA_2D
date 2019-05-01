@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KZ_CA_2D", "KZ_CA_2D\KZ_CA_2D.csproj", "{922CF3AE-AE38-4617-A6FC-BC204E644A9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{922CF3AE-AE38-4617-A6FC-BC204E644A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922CF3AE-AE38-4617-A6FC-BC204E644A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922CF3AE-AE38-4617-A6FC-BC204E644A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922CF3AE-AE38-4617-A6FC-BC204E644A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F1225AE-6909-4617-8F93-CF5C47640DED}
+	EndGlobalSection
+EndGlobal
